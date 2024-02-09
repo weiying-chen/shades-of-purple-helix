@@ -4,7 +4,7 @@ Helix theme based on [Shades of Purple](https://github.com/ahmadawais/shades-of-
 
 ![](https://github.com/weiying-chen/shades-of-purple-helix/blob/main/demo.png)
 
-*Font: [Mononoki](https://madmalik.github.io/mononoki/)* 
+*Font: [mononoki](https://madmalik.github.io/mononoki/)* 
 
 ## Installation
 
